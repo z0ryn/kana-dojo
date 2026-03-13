@@ -360,9 +360,9 @@
   "secondaryColor": "oklch(68.0% 0.090 60.0 / 1)"
   },
   {
-  "id": "tea-ceremony",
-  "backgroundColor": "oklch(25.0% 0.028 145.0 / 1)",
-  "mainColor": "oklch(62.0% 0.115 135.0 / 1)",
-  "secondaryColor": "oklch(75.0% 0.075 90.0 / 1)"
+  "id": "sundown-shrine",
+  "backgroundColor": "oklch(18.0% 0.055 330.0 / 1)",
+  "mainColor": "oklch(72.0% 0.195 35.0 / 1)",
+  "secondaryColor": "oklch(85.0% 0.095 275.0 / 1)"
 }
 ]
